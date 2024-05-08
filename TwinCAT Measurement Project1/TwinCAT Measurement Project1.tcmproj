@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <ProjectGuid>{ada81655-51f6-4708-86c1-a2c90b693a7c}</ProjectGuid>
+    <AssemblyName>TwinCAT Measurement Project1</AssemblyName>
+    <Name>TwinCAT Measurement Project1</Name>
+    <RootNamespace>TwinCAT Measurement Project1</RootNamespace>
+  </PropertyGroup>
+  <ItemGroup>
+    <Content Include="Current Position of 4 Axis.tcscopex">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Current Position of XY Axis.tcscopex">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Current Tension.tcscopex">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Current Velocity of 4 Axis.tcscopex">
+      <SubType>Content</SubType>
+    </Content>
+  </ItemGroup>
+</Project>

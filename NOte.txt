@@ -1,0 +1,4 @@
+- Đã jog được và chạy file Gcode được, tuy nhiên đang có một số vấn đề về chuyển chế độ
+-> Jog -> Gcode lần đầu thì oki
+-> Jog -> Gcode lần sau thì bị lỗi-> Tránh chuyển từ chế độ Jog sang Gcode từ lần đầu trở đi
+-> Đã link được Matlab
